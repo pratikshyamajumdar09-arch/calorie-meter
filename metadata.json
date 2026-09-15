@@ -1,0 +1,6 @@
+{
+  "name": "Calorie Meter",
+  "description": "A visual calorie meter and daily intake tracker with macro breakdowns, meal logging, and interactive gauge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
